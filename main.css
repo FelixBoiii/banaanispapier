@@ -1,3 +1,60 @@
 body{
+    background-image:url("banana-background-png.jpg");
+}
 
+.mainContainer{
+    border-radius: 3em;
+    padding: 0 0 1em 0;
+    width: 70%;
+    margin: auto;
+    overflow: hidden;
+    
+}
+
+.colorclass{
+    background-color:white;
+    margin:5em 0 5em 0;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 1em;
+}
+
+h1{
+    padding-top:1em;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-size: 30pt;
+    color:rgba(0,0,0,0.8);
+    margin: auto;
+    width: 80%;
+    text-align:center;
+}
+
+.imagebanaan{
+    
+    margin: auto;
+    max-width: none;
+    display: block;
+    width: 80%;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 18pt;
+    color:rgba(0,0,0,0.7);
+    margin: auto;
+    width: 80%;
+    padding-bottom:1em;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 15pt;
+    color:rgba(0,0,0,0.6);
+    margin: auto;
+    width: 80%; 
+    padding-bottom:8em;
+}
+a{
+    color:cornflowerblue;
 }
